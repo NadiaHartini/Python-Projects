@@ -1,4 +1,4 @@
-# Welcome to My Python-Projects Portfolio!
+# Welcome to My Python-Projects Portfolio
 
 I'm excited to share my collection of projects for data science and data analysis using Python. 
 
